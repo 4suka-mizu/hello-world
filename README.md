@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+I'm asuka-mizu.
+I belong to the programming circle, WILL (from PlayGround).
